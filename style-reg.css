@@ -1,0 +1,48 @@
+body {
+    background: rgb(64, 64, 64)
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #626162
+}
+/*.row mt-2{
+    background-color: #323232;
+}*/
+.profile-button {
+    background: rgb(89, 89, 89);
+    box-shadow: none;
+    border: none
+}
+/*.container{
+    background:url(leone-venter-VieM9BdZKFo-unsplash.jpg);
+}*/
+.profile-button:hover {
+    background: #323232
+}
+
+.profile-button:focus {
+    background: #5d5c5d;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #585858;
+    box-shadow: none
+}
+
+.back:hover {
+    color: #3c3c3c;
+    cursor: pointer
+}
+
+.labels {
+    font-size: 11px
+}
+
+.add-experience:hover {
+    background: #434343;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #4a4a4a
+}
